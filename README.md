@@ -12,6 +12,8 @@ SARS-CoV-2_Genomic_lineages_Ecuador/
 ├── Data
 │   ├── MSP_epi_data
 │   ├── genetic_data
+│       ├── GISAID_complete_highcoverage_20210107
+│       └── metadata
 │   └── mobility_data
 ├── Analyses
 │   ├── spatial_dynamics
