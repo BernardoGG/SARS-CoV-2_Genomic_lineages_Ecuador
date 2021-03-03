@@ -1,0 +1,161 @@
+﻿Sequence name,Lineage,Probability,Most common countries,Number of taxa,Date range,Days since last sampling
+hCoV-19/Ecuador/2343/2020|EPI_ISL_574292|2020-03-16,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/2479/2020|EPI_ISL_574294|2020-03-23,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/2512/2020|EPI_ISL_574293|2020-03-22,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/20640/2020|EPI_ISL_490201|2020-05-02,B.1.1,1.0,"USA, UK, Turkey",243,"February-29, January-15",31
+hCoV-19/Ecuador/23055/2020|EPI_ISL_491945|2020-04-22,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/23890/2020|EPI_ISL_491944|2020-04-25,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/30755/2020|EPI_ISL_491948|2020-04-29,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/36192/2020|EPI_ISL_491947|2020-05-08,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/36226/2020|EPI_ISL_491953|2020-05-08,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/36230/2020|EPI_ISL_491950|2020-05-08,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/51908/2020|EPI_ISL_491949|2020-05-26,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/52255/2020|EPI_ISL_491952|2020-05-29,B.1.1.231,1.0,"USA, Ecuador, Colombia",57,"March-13, September-17",151
+hCoV-19/Ecuador/52389/2020|EPI_ISL_491954|2020-05-28,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/52438/2020|EPI_ISL_491951|2020-06-01,B.1.1.250,1.0,"UK, Bangladesh, USA",72,"March-07, September-29",139
+hCoV-19/Ecuador/52872/2020|EPI_ISL_491946|2020-05-28,B.1.1.130,1.0,"UK, Sweden, USA",112,"March-16, November-08",99
+hCoV-19/Ecuador/HEE-01/2020|EPI_ISL_417482|2020-03-09,B,1.0,"UK, China, USA",3748,"December-24, October-17",121
+hCoV-19/Ecuador/HGSQ-USFQ-007/2020|EPI_ISL_422564|2020-03-30,B.1.14,1.0,USA,21,"March-31, May-07",284
+hCoV-19/Ecuador/HGSQ-USFQ-010/2020|EPI_ISL_422565|2020-03-30,B.1.14,1.0,USA,21,"March-31, May-07",284
+hCoV-19/Ecuador/HGSQ-USFQ-018/2020|EPI_ISL_422563|2020-03-30,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-9/2020|EPI_ISL_671979|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-15/2020|EPI_ISL_671986|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-17/2020|EPI_ISL_671991|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-19/2020|EPI_ISL_671996|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-24/2020|EPI_ISL_671980|2020,B,1.0,"UK, China, USA",3748,"December-24, October-17",121
+hCoV-19/Ecuador/UEES-28/2020|EPI_ISL_671987|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-29/2020|EPI_ISL_671992|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-31/2020|EPI_ISL_671997|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-32/2020|EPI_ISL_672002|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-1921/2020|EPI_ISL_671983|2020,B.1.1.29,1.0,"UK, Ireland",110,"March-22, June-17",243
+hCoV-19/Ecuador/UEES-2001/2020|EPI_ISL_671993|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-2963/2020|EPI_ISL_671998|2020,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/UEES-3050/2020|EPI_ISL_672003|2020,B.1.1.290,1.0,USA,82,"May-06, August-07",192
+hCoV-19/Ecuador/UEES-3683/2020|EPI_ISL_672006|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-3685/2020|EPI_ISL_672010|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-3911/2020|EPI_ISL_671984|2020,B.1.1.29,1.0,"UK, Ireland",110,"March-22, June-17",243
+hCoV-19/Ecuador/UEES-4040/2020|EPI_ISL_671988|2020,B.1.1.208,1.0,"UK, India, Portugal",80,"March-13, June-27",233
+hCoV-19/Ecuador/UEES-4107/2020|EPI_ISL_671999|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-4142/2020|EPI_ISL_671982|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-4369/2020|EPI_ISL_671989|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-4375/2020|EPI_ISL_671994|2020,B.1.1.31,1.0,Russia,45,"May-14, September-28",140
+hCoV-19/Ecuador/UEES-7235/2020|EPI_ISL_672000|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-7297/2020|EPI_ISL_672004|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-7317/2020|EPI_ISL_672007|2020,B.1.1.264,1.0,"UK, Gambia",174,"March-27, July-27",203
+hCoV-19/Ecuador/UEES-7332/2020|EPI_ISL_672011|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-7352/2020|EPI_ISL_671985|2020,B.1.1.261,1.0,"Sweden, Denmark, Faroe_Islands",98,"March-11, August-31",168
+hCoV-19/Ecuador/UEES-7435/2020|EPI_ISL_671990|2020,B.1.1.67,1.0,"UK, Russia, South_Africa",306,"March-18, January-12",34
+hCoV-19/Ecuador/UEES-7462/2020|EPI_ISL_671995|2020,B.1.1.290,1.0,USA,82,"May-06, August-07",192
+hCoV-19/Ecuador/UEES-7463/2020|EPI_ISL_672001|2020,B.1.1.261,1.0,"Sweden, Denmark, Faroe_Islands",98,"March-11, August-31",168
+hCoV-19/Ecuador/UEES-7493/2020|EPI_ISL_672005|2020,B.1.375,1.0,"USA, UK",34,"September-23, December-21",56
+hCoV-19/Ecuador/UEES-7501/2020|EPI_ISL_672008|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-A001/2020|EPI_ISL_672009|2020,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/UEES-HE134/2020|EPI_ISL_671981|2020,B.1.1.107,1.0,"UK, Bangladesh, Brazil",77,"March-25, August-27",172
+hCoV-19/Ecuador/USFQ-004/2020|EPI_ISL_477014|2020-03-30,B.1.67,1.0,"UK, Ecuador",21,"March-23, April-17",304
+hCoV-19/Ecuador/USFQ-020/2020|EPI_ISL_471267|2020-04-17,B.1.67,1.0,"UK, Ecuador",21,"March-23, April-17",304
+hCoV-19/Ecuador/USFQ-026/2020|EPI_ISL_481244|2020-04-17,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-039/2020|EPI_ISL_481245|2020-04-17,B.1.67,1.0,"UK, Ecuador",21,"March-23, April-17",304
+hCoV-19/Ecuador/USFQ-045/2020|EPI_ISL_471268|2020-04-17,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-054/2020|EPI_ISL_481246|2020-04-17,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-065/2020|EPI_ISL_481247|2020-04-17,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-066/2020|EPI_ISL_481248|2020-04-17,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-096/2020|EPI_ISL_477015|2020-06-17,B.1.371,1.0,"USA, Denmark, UK",264,"March-09, August-10",189
+hCoV-19/Ecuador/USFQ-097/2020|EPI_ISL_477016|2020-06-17,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-105/2020|EPI_ISL_486842|2020-07-01,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-106/2020|EPI_ISL_471271|2020-05-19,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-108/2020|EPI_ISL_486843|2020-07-01,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-109/2020|EPI_ISL_486844|2020-07-01,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-110/2020|EPI_ISL_486845|2020-06-30,B.1.67,1.0,"UK, Ecuador",21,"March-23, April-17",304
+hCoV-19/Ecuador/USFQ-111/2020|EPI_ISL_486846|2020-06-30,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-112/2020|EPI_ISL_471270|2020-05-19,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-113/2020|EPI_ISL_486848|2020-06-30,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-114/2020|EPI_ISL_486849|2020-06-30,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-118/2020|EPI_ISL_486850|2020-06-30,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-119/2020|EPI_ISL_486851|2020-06-30,B.1.1.207,1.0,USA,28,"August-14, October-27",111
+hCoV-19/Ecuador/USFQ-120/2020|EPI_ISL_491932|2020-07-03,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-126/2020|EPI_ISL_491939|2020-07-03,B.1.419,1.0,"Iceland, Spain, UK",18,"March-12, June-10",250
+hCoV-19/Ecuador/USFQ-127/2020|EPI_ISL_491940|2020-07-03,B.1.419,1.0,"Iceland, Spain, UK",18,"March-12, June-10",250
+hCoV-19/Ecuador/USFQ-128/2020|EPI_ISL_491933|2020-04-07,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-129/2020|EPI_ISL_491934|2020-04-07,B.1.1.10,1.0,"UK, USA, Switzerland",543,"March-01, September-12",156
+hCoV-19/Ecuador/USFQ-131/2020|EPI_ISL_491935|2020-04-13,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-133/2020|EPI_ISL_491941|2020-05-02,B.1.225,1.0,"UK, Ecuador, Italy",56,"April-01, July-17",213
+hCoV-19/Ecuador/USFQ-139/2020|EPI_ISL_491936|2020-06-30,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-147/2020|EPI_ISL_491937|2020-06-30,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-150/2020|EPI_ISL_491938|2020-06-30,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-161/2020|EPI_ISL_516648|2020-07-14,B.1.308,1.0,USA,18,"April-03, June-12",248
+hCoV-19/Ecuador/USFQ-162/2020|EPI_ISL_516649|2020-07-14,B.1.223,1.0,"UK, Spain, Netherlands",200,"March-15, August-28",171
+hCoV-19/Ecuador/USFQ-163/2020|EPI_ISL_525430|2020-05-20,B.1.9,1.0,"Turkey, Netherlands, UK",123,"March-14, November-23",84
+hCoV-19/Ecuador/USFQ-165/2020|EPI_ISL_516650|2020-07-22,A.1,1.0,"USA, Australia, Canada",2641,"January-21, August-18",181
+hCoV-19/Ecuador/USFQ-167/2020|EPI_ISL_516651|2020-07-25,B.1.223,1.0,"UK, Spain, Netherlands",200,"March-15, August-28",171
+hCoV-19/Ecuador/USFQ-171/2020|EPI_ISL_516652|2020-07-29,B.1.223,1.0,"UK, Spain, Netherlands",200,"March-15, August-28",171
+hCoV-19/Ecuador/USFQ-173/2020|EPI_ISL_697783|2020-07-22,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-177/2020|EPI_ISL_525431|2020-08-12,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-178/2020|EPI_ISL_525432|2020-08-12,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-182/2020|EPI_ISL_525433|2020-08-13,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-183/2020|EPI_ISL_525434|2020-08-13,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-184/2020|EPI_ISL_525435|2020-08-14,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-185/2020|EPI_ISL_697784|2020-08-12,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-186/2020|EPI_ISL_525436|2020-08-12,B.1.223,1.0,"UK, Spain, Netherlands",200,"March-15, August-28",171
+hCoV-19/Ecuador/USFQ-188/2020|EPI_ISL_525437|2020-08-12,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-189/2020|EPI_ISL_697786|2020-08-12,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-193/2020|EPI_ISL_527809|2020-08-04,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-194/2020|EPI_ISL_527810|2020-08-04,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-195/2020|EPI_ISL_527811|2020-08-04,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-196/2020|EPI_ISL_527812|2020-08-20,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-197/2020|EPI_ISL_527813|2020-08-20,B.1.223,1.0,"UK, Spain, Netherlands",200,"March-15, August-28",171
+hCoV-19/Ecuador/USFQ-199/2020|EPI_ISL_527814|2020-08-20,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-201/2020|EPI_ISL_527815|2020-08-20,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-203/2020|EPI_ISL_527816|2020-08-20,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-204/2020|EPI_ISL_527817|2020-08-20,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-206/2020|EPI_ISL_527818|2020-08-14,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-207/2020|EPI_ISL_527819|2020-04-07,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-208/2020|EPI_ISL_539783|2020-06-15,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-209/2020|EPI_ISL_539784|2020-08-19,B.1.419,1.0,"Iceland, Spain, UK",18,"March-12, June-10",250
+hCoV-19/Ecuador/USFQ-212/2020|EPI_ISL_539785|2020-08-04,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-213/2020|EPI_ISL_539786|2020-08-05,B.1.419,1.0,"Iceland, Spain, UK",18,"March-12, June-10",250
+hCoV-19/Ecuador/USFQ-214/2020|EPI_ISL_539787|2020-08-05,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-216/2020|EPI_ISL_539788|2020-08-05,B.1.223,1.0,"UK, Spain, Netherlands",200,"March-15, August-28",171
+hCoV-19/Ecuador/USFQ-219/2020|EPI_ISL_539789|2020-08-15,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-220/2020|EPI_ISL_539790|2020-08-15,B.1.419,1.0,"Iceland, Spain, UK",18,"March-12, June-10",250
+hCoV-19/Ecuador/USFQ-222/2020|EPI_ISL_539791|2020-08-15,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-224/2020|EPI_ISL_539792|2020-08-15,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-226/2020|EPI_ISL_539793|2020-08-15,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-228/2020|EPI_ISL_660529|2020-10-01,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-230/2020|EPI_ISL_660530|2020-10-01,B.1.1.10,1.0,"UK, USA, Switzerland",543,"March-01, September-12",156
+hCoV-19/Ecuador/USFQ-231/2020|EPI_ISL_660531|2020-10-01,B.1.197,1.0,"Australia, New_Zealand, Ecuador",21,"March-21, October-05",133
+hCoV-19/Ecuador/USFQ-249/2020|EPI_ISL_697787|2020-09-22,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-253/2020|EPI_ISL_574431|2020-09-14,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-322/2020|EPI_ISL_697788|2020-08-19,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-344/2020|EPI_ISL_697789|2020-09-02,B.1.6,1.0,"Belgium, UK, DRC",29,"March-05, June-03",257
+hCoV-19/Ecuador/USFQ-346/2020|EPI_ISL_697790|2020-09-07,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-381/2020|EPI_ISL_697791|2020-09-18,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-402/2020|EPI_ISL_660532|2020-10-02,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-405/2020|EPI_ISL_697792|2020-09-02,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-433/2020|EPI_ISL_697793|2020-09-07,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-485/2020|EPI_ISL_660533|2020-10-05,B.1.197,1.0,"Australia, New_Zealand, Ecuador",21,"March-21, October-05",133
+hCoV-19/Ecuador/USFQ-487/2020|EPI_ISL_660534|2020-10-05,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-506/2020|EPI_ISL_660535|2020-10-10,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-509/2020|EPI_ISL_660536|2020-10-10,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-513/2020|EPI_ISL_660537|2020-10-10,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-515/2020|EPI_ISL_660538|2020-10-10,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-520/2020|EPI_ISL_660539|2020-10-02,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-523/2020|EPI_ISL_697794|2020-09-29,B.1.1.1,1.0,"UK, Denmark, Peru",5680,"March-02, November-11",96
+hCoV-19/Ecuador/USFQ-524/2020|EPI_ISL_697795|2020-09-29,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-527/2020|EPI_ISL_697796|2020-05-26,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-528/2020|EPI_ISL_697797|2020-07-17,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-531/2020|EPI_ISL_697798|2020-11-30,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-533/2020|EPI_ISL_697799|2020-11-30,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-539/2020|EPI_ISL_697800|2020-11-30,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/USFQ-553/2020|EPI_ISL_728202|2020-11-28,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-555/2020|EPI_ISL_728203|2020-12-04,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-556/2020|EPI_ISL_728204|2020-12-01,A.2,1.0,"Spain, UK, Panama",1157,"February-17, December-23",54
+hCoV-19/Ecuador/USFQ-558/2020|EPI_ISL_728205|2020-12-09,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-707/2020|EPI_ISL_471269|2020-06-04,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-1026/2020|EPI_ISL_594118|2020-08-14,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-1112/2020|EPI_ISL_486847|2020-06-30,B.1.67,1.0,"UK, Ecuador",21,"March-23, April-17",304
+hCoV-19/Ecuador/USFQ-1188/2020|EPI_ISL_697785|2020-08-12,B.1.1.74,1.0,"UK, Ireland, Belgium",227,"March-25, January-14",32
+hCoV-19/Ecuador/USFQ-MC01/2020|EPI_ISL_525438|2020-08-14,B.1.223,1.0,"UK, Spain, Netherlands",200,"March-15, August-28",171
+hCoV-19/Ecuador/ZZL-3/2020|EPI_ISL_660069|2020-07-20,B.1.1.161,1.0,"Saudi_Arabia, USA, Peru",42,"March-19, July-04",226
+hCoV-19/Ecuador/ZZL-4/2020|EPI_ISL_660070|2020-11-26,B.1.1.4,1.0,"UK, Singapore, India",469,"March-23, October-03",135
+hCoV-19/Ecuador/ZZ-SARS-1/2020|EPI_ISL_681702|2020-03-23,B.1,1.0,"USA, UK, Spain",19209,"January-28, January-02",44
+hCoV-19/Ecuador/ZZ-SARS-2/2020|EPI_ISL_681703|2020-04-30,B.1.1.231,1.0,"USA, Ecuador, Colombia",57,"March-13, September-17",151
