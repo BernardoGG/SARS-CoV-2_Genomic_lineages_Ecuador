@@ -36,8 +36,9 @@ SARS-CoV-2_Genomic_lineages_Ecuador/
 │   └── phylogenetics
 │       ├── ML_SARS2_EC
 │       └── BEAST_SARS2_EC
+|           ├── BEAST_rate_estimation
+|           └── DTA
 ├── Plots
-│   └── SARS2_phylo_plots.R
 └── README.md
 ```
 
