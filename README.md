@@ -18,7 +18,7 @@ Bernardo Gutierrez<sup>1,2</sup>, Sully Márquez<sup>3</sup>, Belén Prado-Vivar
 <sup>13</sup>Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
 <sup>14</sup>School of Public Health, University of California, Berkeley, USA
 <sup>15</sup>Escuela de Medicina, Universidad San Francisco de Quito, Quito, Ecuador
-<sup>16</sup>MRC Centre for Global Infectious Disease Analysis, J-IDEA, Imperial College London, London, UK 
+<sup>16</sup>MRC Centre for Global Infectious Disease Analysis, J-IDEA, Imperial College London, London, UK
 <sup>17</sup>Department of Pathobiology and Population Sciences, Royal Veterinary College London, London, UK
 
 ## Repository usage and structure
