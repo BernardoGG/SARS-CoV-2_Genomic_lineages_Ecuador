@@ -1,0 +1,113 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=9;
+	taxlabels
+	'hCoV-19/Ecuador/USFQ-126/2020|EPI_ISL_491939|2020-07-03'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-127/2020|EPI_ISL_491940|2020-07-03'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-209/2020|EPI_ISL_539784|2020-08-19'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-213/2020|EPI_ISL_539786|2020-08-05'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-220/2020|EPI_ISL_539790|2020-08-15'[&!color=#ff0000]
+	'hCoV-19/Iceland/172/2020|EPI_ISL_417712|2020-03-15'
+	'hCoV-19/Iceland/201/2020|EPI_ISL_417824|2020-03-16'
+	'hCoV-19/Iceland/553/2020|EPI_ISL_424573|2020-03-27'
+	'hCoV-19/Iceland/568/2020|EPI_ISL_424588|2020-03-28'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((('hCoV-19/Ecuador/USFQ-209/2020|EPI_ISL_539784|2020-08-19'[&length_range={0.01095625305413,0.1794336439126},source.set={"EC"},length_95%_HPD={0.01096528734301,0.1075860013388},length=0.04916298474278994,source.prob=1.0,source="EC",height_median=0.30874316939896285,height_range={0.3087431693988417,0.30874316939911983},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.3087431693988786,0.30874316939904567},length_median=0.03623948814532,height=0.3087431693989644]:0.028099,'hCoV-19/Ecuador/USFQ-220/2020|EPI_ISL_539790|2020-08-15'[&length_range={2.729130539325E-5,0.2242253196198},source.set={"EC"},length_95%_HPD={2.729130539325E-5,0.095498245132},length=0.037472366589461424,source.prob=1.0,source="EC",height_median=0.3196721311476943,height_range={0.31967213114757465,0.31967213114784676},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.3196721311476086,0.31967213114777604},length_median=0.025310526396585,height=0.3196721311476963]:0.01717)[&length_range={7.876185829583E-4,0.1766602626535},source.set={"EC"},length_95%_HPD={7.876185829583E-4,0.1249918654499},length=0.05615350935506948,source.prob=1.0,posterior=0.677,source="EC",height_median=0.3368421343425143,height_range={0.31969942245310623,0.413794851499645},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.022029006728063884},source.rate_median=0.01774642873966873,source.rate_range={0.012416002116771352,0.024476912930235538},source.rate=0.017796291321280223,height_95%_HPD={0.3197084567420193,0.38503505760631485},length_median=0.05125818511451,height=0.34150542636232684]:0.054064,'hCoV-19/Ecuador/USFQ-213/2020|EPI_ISL_539786|2020-08-05'[&length_range={2.969615810178E-5,0.2182112935568},source.set={"EC"},length_95%_HPD={2.969615810178E-5,0.1076364644211},length=0.043286057398887884,source.prob=1.0,source="EC",height_median=0.3469945355191835,height_range={0.3469945355190647,0.3469945355193378},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.3469945355191021,0.34699453551926607},length_median=0.03820660438347,height=0.3469945355191845]:0.043911)[&length_range={0.005182706137248,0.2884796286089},source.set={"EC"},length_95%_HPD={0.005182706137248,0.1580779379598},length=0.07828175799077741,source.prob=1.0,posterior=0.877,source="EC",height_median=0.3909059720338235,height_range={0.3470242316772131,0.5206417287013082},source.set.prob={1.0},source.rate_95%_HPD={0.014208335313428385,0.022124973565262412},source.rate_median=0.017826212159162826,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.017900621817646085,height_95%_HPD={0.3472680127944844,0.4396687405949373},length_median=0.07282835962794,height=0.3925525021305535]:0.063159,'hCoV-19/Ecuador/USFQ-127/2020|EPI_ISL_491940|2020-07-03'[&length_range={3.713761647406E-5,0.2606497209872},source.set={"EC"},length_95%_HPD={7.943149926781E-5,0.1047118916156},length=0.03192980873777609,source.prob=1.0,source="EC",height_median=0.437158469945486,height_range={0.4371584699453799,0.43715846994561025},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.43715846994540175,0.43715846994555974},length_median=0.02002412804467,height=0.4371584699454852]:0.016906)[&length_range={4.64246748122E-5,0.2450905493112},source.set={"EC"},length_95%_HPD={7.810192997219E-4,0.1153795051737},length=0.03908074755946077,source.prob=1.0,posterior=0.325,source="EC",height_median=0.45406473452206697,height_range={0.4371956075619441,0.5629131673295855},source.set.prob={1.0},source.rate_95%_HPD={0.013873849907766434,0.022086806867217715},source.rate_median=0.017928219342336557,source.rate_range={0.012416002116771352,0.024429885478731345},source.rate=0.01793701588537266,height_95%_HPD={0.4371956075619441,0.49889289588604835},length_median=0.02631235601921,height=0.4591202546196553]:0.030016,'hCoV-19/Ecuador/USFQ-126/2020|EPI_ISL_491939|2020-07-03'[&length_range={5.68513672794E-5,0.2571382174872},source.set={"EC"},length_95%_HPD={5.68513672794E-5,0.1052158869468},length=0.03384280098992323,source.prob=1.0,source="EC",height_median=0.437158469945486,height_range={0.4371584699453799,0.43715846994561025},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.43715846994539664,0.4371584699455541},length_median=0.02383270446258,height=0.4371584699454855]:0.046922)[&length_range={0.04498804186318,0.3604741118826},source.set={"EC"},length_95%_HPD={0.1868049583659,0.3489301113149},length=0.26998182811594806,source.prob=1.0,posterior=1.0,source="EC",height_median=0.4840803875295717,height_range={0.4394019151677715,0.6978081909327517},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.442381107636898,0.5804760443179029},length_median=0.27937476023675,height=0.4970429512392939]:0.280514,'hCoV-19/Iceland/201/2020|EPI_ISL_417824|2020-03-16'[&length_range={7.624504550829E-5,0.09035647970289},source.set={"nonEC"},length_95%_HPD={7.624504550829E-5,0.05953371902165},length=0.032052101759592534,source.prob=1.0,source="nonEC",height_median=0.7349726775956471,height_range={0.734972677595585,0.7349726775957263},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7349726775956108,0.7349726775957095},length_median=0.02962134432718,height=0.734972677595652]:0.029621)[&length_range={1.836044326249E-4,0.092110058178},source.set={"nonEC"},length_95%_HPD={1.836044326249E-4,0.06183597160998},length=0.029716462783548184,source.prob=1.0,posterior=1.0,source="nonEC",height_median=0.7645940219228363,height_range={0.7350489226411474,0.8253291572985179},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7350489226411474,0.7945063966172603},length_median=0.029623816360215,height=0.7670247793552419]:0.031135,(('hCoV-19/Iceland/172/2020|EPI_ISL_417712|2020-03-15'[&length_range={0.001412282421264,0.08800545006467},source.set={"nonEC"},length_95%_HPD={0.01039894567962,0.06096202908656},length=0.030692606865251288,source.prob=1.0,source="nonEC",height_median=0.737704918032773,height_range={0.737704918032712,0.7377049180328612},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7377049180327284,0.737704918032823},length_median=0.02791494492826,height=0.7377049180327777]:0.027915,'hCoV-19/Iceland/568/2020|EPI_ISL_424588|2020-03-28'[&length_range={0.03693140810413,0.1235245757475},source.set={"nonEC"},length_95%_HPD={0.04591807136249,0.09648115476943},length=0.06621173254811887,source.prob=1.0,source="nonEC",height_median=0.7021857923499067,height_range={0.702185792349842,0.7021857923499912},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7021857923498585,0.7021857923499581},length_median=0.06343407061113,height=0.7021857923499105]:0.063434)[&length_range={1.739241494803E-5,0.06449966112946},source.set={"nonEC"},length_95%_HPD={1.739241494803E-5,0.03636547911209},length=0.014189827262912166,source.prob=1.0,posterior=1.0,source="nonEC",height_median=0.7656198629610466,height_range={0.7391172004540565,0.8257103680974227},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7481038637123574,0.7986669471193071},length_median=0.01091713078797,height=0.7683975248980276]:0.02168,'hCoV-19/Iceland/553/2020|EPI_ISL_424573|2020-03-27'[&length_range={0.04168423255683,0.1216935476433},source.set={"nonEC"},length_95%_HPD={0.04892860346554,0.09890605760405},length=0.07766931937390412,source.prob=1.0,source="nonEC",height_median=0.7049180327870335,height_range={0.7049180327869571,0.7049180327871212},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7049180327869898,0.7049180327870888},length_median=0.08238198359902,height=0.7049180327870375]:0.082382)[&length_range={1.664003917656E-6,0.0684072144778},source.set={"nonEC"},length_95%_HPD={1.664003917656E-6,0.03823296619986},length=0.014153889977851277,source.prob=1.0,posterior=1.0,source="nonEC",height_median=0.7873000163860298,height_range={0.7466022653438585,0.8266115804304124},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.753846636252557,0.8038240903911116},length_median=0.011009772754545,height=0.7825873521609368]:0.008429)[&length_range={1.419761699124E-4,0.08025329580764},source.set={"nonEC"},length_95%_HPD={1.419761699124E-4,0.05339344025198},length=0.028289019391725997,source.prob=1.0,posterior=1.0,source="nonEC",height_median=0.7957294829153543,height_range={0.7518621175473202,0.831413260242629},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7735305483482626,0.8285451548853562},length_median=0.02893343219968,height=0.7967412421387894];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="source";
+	set appearance.branchColorGradient=true;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set colour.order.source="source:nonEC,EC";
+	set colour.scheme.source="source:HSBDiscrete{hue,2,0.0,1.0,0.0,0.859,0.571,0.614}";
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="height";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute="height_95%_HPD";
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="source";
+	set nodeShapeExternal.isShown=true;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=10.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="source";
+	set nodeShapeInternal.isShown=true;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=6.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.05;
+	set tipLabels.colorAttribute="source";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=9;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

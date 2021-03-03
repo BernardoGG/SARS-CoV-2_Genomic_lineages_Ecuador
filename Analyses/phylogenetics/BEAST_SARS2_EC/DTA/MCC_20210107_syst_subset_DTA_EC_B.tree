@@ -1,0 +1,111 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=7;
+	taxlabels
+	'hCoV-19/Denmark/SSI-02/2020|EPI_ISL_416143|2020-02-28'
+	'hCoV-19/Ecuador/USFQ-004/2020|EPI_ISL_477014|2020-03-30'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-020/2020|EPI_ISL_471267|2020-04-17'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-039/2020|EPI_ISL_481245|2020-04-17'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-110/2020|EPI_ISL_486845|2020-06-30'[&!color=#ff0000]
+	'hCoV-19/Ecuador/USFQ-1112/2020|EPI_ISL_486847|2020-06-30'[&!color=#ff0000]
+	'hCoV-19/Malaysia/UNIMAS-0803/2020|EPI_ISL_718136|2020-04-08'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((('hCoV-19/Ecuador/USFQ-1112/2020|EPI_ISL_486847|2020-06-30'[&length_range={7.363830153362E-5,0.2591748947173},source.set={"EC"},length_95%_HPD={7.363830153362E-5,0.1120909852886},length=0.04036916966013905,source.prob=1.0,source="EC",height_median=0.44535519125686623,height_range={0.44535519125676115,0.44535519125699896},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.44535519125679557,0.4453551912569481},length_median=0.0292496039575,height=0.44535519125686557]:0.029201,'hCoV-19/Ecuador/USFQ-110/2020|EPI_ISL_486845|2020-06-30'[&length_range={7.363830153362E-5,0.2310709306975},source.set={"EC"},length_95%_HPD={7.363830153362E-5,0.1120909852886},length=0.04029887502925035,source.prob=1.0,source="EC",height_median=0.44535519125686623,height_range={0.44535519125676115,0.44535519125699896},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.44535519125679557,0.4453551912569481},length_median=0.0292496039575,height=0.44535519125686557]:0.029201)[&length_range={0.002667436437859,0.327996305624},source.set={"EC"},length_95%_HPD={0.09991636643132,0.2666834481554},length=0.19686586347304727,source.prob=1.0,posterior=0.998,source="EC",height_median=0.47455668567431347,height_range={0.4454288295583839,0.672531613474771},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820721475693753,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.017884419842342972,height_95%_HPD={0.4454288295583839,0.5554609375209353},length_median=0.2039491333424,height=0.48529839401637653]:0.232457,('hCoV-19/Ecuador/USFQ-039/2020|EPI_ISL_481245|2020-04-17'[&length_range={7.256243382092E-5,0.1054328273618},source.set={"EC"},length_95%_HPD={7.256243382092E-5,0.0653368758968},length=0.03430469534897264,source.prob=1.0,source="EC",height_median=0.6475409836067005,height_range={0.6475409836066178,0.647540983606783},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.647540983606654,0.6475409836067579},length_median=0.03351010698972,height=0.647540983606704]:0.05301,'hCoV-19/Ecuador/USFQ-004/2020|EPI_ISL_477014|2020-03-30'[&length_range={1.200947213531E-5,0.09284683046937},source.set={"EC"},length_95%_HPD={1.200947213531E-5,0.05699257448014},length=0.017013171717507908,source.prob=1.0,source="EC",height_median=0.6967213114754262,height_range={0.6967213114753628,0.6967213114755071},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.6967213114753765,0.6967213114754784},length_median=0.00807078694837,height=0.6967213114754287]:0.003829)[&length_range={0.001226601272706,0.07927667313399},source.set={"EC"},length_95%_HPD={0.001347747269573,0.06063999503257},length=0.02135451676223878,source.prob=1.0,posterior=0.064,source="EC",height_median=0.7005506129372259,height_range={0.6968996017351945,0.7503608102616576},source.set.prob={1.0},source.rate_95%_HPD={0.014856988439814603,0.02054253743864354},source.rate_median=0.01794115126336728,source.rate_range={0.014856988439814603,0.023822010863675972},source.rate=0.01782973639199705,height_95%_HPD={0.6968996017351945,0.7377093883265616},length_median=0.01563392933387,height=0.7045567762948904]:0.006463)[&length_range={5.373632343419E-5,0.08564503225922},source.set={"EC"},length_95%_HPD={5.373632343419E-5,0.05360993406562},length=0.019979092433445093,source.prob=1.0,posterior=1.0,source="EC",height_median=0.7070135228843869,height_range={0.6967333209475526,0.7900480485752217},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.6967333209475526,0.7551487724058524},length_median=0.014840998632324999,height=0.7161878282689589]:0.027415,'hCoV-19/Ecuador/USFQ-020/2020|EPI_ISL_471267|2020-04-17'[&length_range={0.05036886241511,0.1532545677385},source.set={"EC"},length_95%_HPD={0.05036886241511,0.1260579781658},length=0.08862593709570127,source.prob=1.0,source="EC",height_median=0.6475409836067001,height_range={0.6475409836066113,0.6475409836067949},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.64754098360665,0.6475409836067683},length_median=0.08688721767096,height=0.6475409836067031]:0.086887)[&length_range={0.003505026850943,0.1062660740664},source.set={"nonEC","EC"},length_95%_HPD={0.005569607782354,0.08779412926436},length=0.04671703801829473,source.prob=0.996,posterior=1.0,source="EC",height_median=0.7344282012776671,height_range={0.6979098460218581,0.8007955513452335},source.set.prob={0.004,0.996},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.6979098460218581,0.7735989617724615},length_median=0.04578553061868,height=0.7361669207024026]:0.053438,'hCoV-19/Malaysia/UNIMAS-0803/2020|EPI_ISL_718136|2020-04-08'[&length_range={0.03683667883106,0.1558170469303},source.set={"nonEC"},length_95%_HPD={0.06919315259817,0.1354609779573},length=0.1107528111796336,source.prob=1.0,source="nonEC",height_median=0.6721311475410652,height_range={0.672131147540965,0.672131147541169},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.6721311475409901,0.6721311475411273},length_median=0.11573509090865,height=0.6721311475410663]:0.115735)[&length_range={2.608790611847E-5,0.08815188035478},source.set={"nonEC"},length_95%_HPD={2.608790611847E-5,0.05263420134182},length=0.0198064871832699,source.prob=1.0,posterior=1.0,source="nonEC",height_median=0.7878662384497109,height_range={0.7089678263721033,0.8279481944713831},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7413243001392387,0.8075921254983052},length_median=0.0148033937553,height=0.7828839587206993]:0.011179,'hCoV-19/Denmark/SSI-02/2020|EPI_ISL_416143|2020-02-28'[&length_range={0.003637484278865,0.05239886377521},source.set={"nonEC"},length_95%_HPD={0.00598532836178,0.04541643791337},length=0.02126968087649289,source.prob=1.0,source="nonEC",height_median=0.781420765027474,height_range={0.7814207650274103,0.7814207650275591},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7814207650274267,0.7814207650275264},length_median=0.01762491640446,height=0.7814207650274784]:0.017625)[&length_range={1.333459303798E-5,0.04530797912658},source.set={"nonEC"},length_95%_HPD={1.333459303798E-5,0.0361927627535},length=0.014478196679969206,source.prob=1.0,posterior=1.0,source="nonEC",height_median=0.7990456814319957,height_range={0.7850582493063154,0.8338196288026635},source.set.prob={1.0},source.rate_95%_HPD={0.014232154760721726,0.02204860684199736},source.rate_median=0.017820465406011808,source.rate_range={0.012416002116771352,0.025501417310285664},source.rate=0.01788172371095928,height_95%_HPD={0.7874060933892779,0.8268372029408513},length_median=0.01083077855799,height=0.802690445903967];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="source";
+	set appearance.branchColorGradient=true;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set colour.order.source="source:nonEC,EC";
+	set colour.scheme.source="source:HSBDiscrete{hue,2,0.0,1.0,0.0,0.87,0.56,0.609}";
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="height";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute="height_95%_HPD";
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="source";
+	set nodeShapeExternal.isShown=true;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=10.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="source";
+	set nodeShapeInternal.isShown=true;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=6.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.04;
+	set tipLabels.colorAttribute="source";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=9;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
