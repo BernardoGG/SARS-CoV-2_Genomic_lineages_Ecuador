@@ -1,0 +1,161 @@
+Virus name	Accession ID	Collection date	Location	Host	Additional location information	Gender	Patient age	Patient status	Passage	Specimen	Additional host information	Lineage	Clade
+hCoV-19/Ecuador/HEE-01/2020	EPI_ISL_417482	2020-03-09	South America / Ecuador / Quito	Human	Traveled from the Netherlands	Male	57	Hospitalized	Original	Alveolar lavage fluid		B	L
+hCoV-19/Ecuador/HGSQ-USFQ-018/2020	EPI_ISL_422563	2020-03-30	South America / Ecuador / Pichincha	Human	Hospital General Sur de Quito	Male	27	Hospitalized	Original	Nasopharyngeal swab	Suspects to be infected in recent trip to Guayaquil	B.1.1	GR
+hCoV-19/Ecuador/HGSQ-USFQ-007/2020	EPI_ISL_422564	2020-03-30	South America / Ecuador / Pichincha	Human		Male	40	Hospitalized	Original	Nasopharyngeal swab		B.1.14	O
+hCoV-19/Ecuador/HGSQ-USFQ-010/2020	EPI_ISL_422565	2020-03-30	South America / Ecuador / Pichincha	Human		Male	39	Hospitalized	Original	Nasopharyngeal swab	Hospital General Sur de Quito	B.1.14	O
+hCoV-19/Ecuador/USFQ-020/2020	EPI_ISL_471267	2020-04-17	South America / Ecuador / Los Rios / Babahoyo	Human		Female	50	Intensive Care Unit	Original			B.1.67	G
+hCoV-19/Ecuador/USFQ-045/2020	EPI_ISL_471268	2020-04-17	South America / Ecuador / Los Rios / Babahoyo	Human		Male	19	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/USFQ-707/2020	EPI_ISL_471269	2020-06-04	South America / Ecuador / Quito	Human		Female	unknown	Hospitalized	Original			B.1.1	GR
+hCoV-19/Ecuador/USFQ-112/2020	EPI_ISL_471270	2020-05-19	South America / Ecuador / Quito	Human		Female	unknown	Released	Original			B.1.1	GR
+hCoV-19/Ecuador/USFQ-106/2020	EPI_ISL_471271	2020-05-19	South America / Ecuador / Quito	Human		Male	unknown	Released	Original			B.1.1	GR
+hCoV-19/Ecuador/USFQ-004/2020	EPI_ISL_477014	2020-03-30	South America / Ecuador / Pichincha	Human	Hospital General Sur de Quito	Female	73	unknown	Original		Suspects to be infected in recent trip to Guayaquil	B.1.67	G
+hCoV-19/Ecuador/USFQ-096/2020	EPI_ISL_477015	2020-06-17	South America / Ecuador / Quito	Human	Hospital Pablo Arturo Suarez	Male	61	Hospitalized	Original			B.1.371	GH
+hCoV-19/Ecuador/USFQ-097/2020	EPI_ISL_477016	2020-06-17	South America / Ecuador / Quito	Human	Hospital Pablo Arturo Suarez	Male	75	Hospitalized	Original			B.1	G
+hCoV-19/Ecuador/USFQ-026/2020	EPI_ISL_481244	2020-04-17	South America / Ecuador / Los Rios / Babahoyo	Human		Male	88	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-039/2020	EPI_ISL_481245	2020-04-17	South America / Ecuador / Los Rios / Babahoyo	Human		Female	24	unknown	Original	Nasopharyngeal swab		B.1.67	G
+hCoV-19/Ecuador/USFQ-054/2020	EPI_ISL_481246	2020-04-17	South America / Ecuador / Los Rios / Babahoyo	Human		Male	22	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-065/2020	EPI_ISL_481247	2020-04-17	South America / Ecuador / Los Rios / Babahoyo	Human		Male	70	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-066/2020	EPI_ISL_481248	2020-04-17	South America / Ecuador / Los Rios / Babahoyo	Human		Male	87	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-105/2020	EPI_ISL_486842	2020-07-01	South America / Ecuador / Chimborazo / Riobamba	Human		Female	50	Hospitalized	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-108/2020	EPI_ISL_486843	2020-07-01	South America / Ecuador / Chimborazo / Riobamba	Human		Female	65	Hospitalized	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-109/2020	EPI_ISL_486844	2020-07-01	South America / Ecuador / Chimborazo / Riobamba	Human		Male	74	Hospitalized	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-110/2020	EPI_ISL_486845	2020-06-30	South America / Ecuador / Pichincha / Cayambe	Human		Male	48	Hospitalized	Original	Nasopharyngeal swab		B.1.67	G
+hCoV-19/Ecuador/USFQ-111/2020	EPI_ISL_486846	2020-06-30	South America / Ecuador / Imbabura / Ibarra	Human		Male	49	Hospitalized	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-1112/2020	EPI_ISL_486847	2020-06-30	South America / Ecuador / Imbabura / Ibarra	Human		Male	58	Hospitalized	Original	Nasopharyngeal swab		B.1.67	G
+hCoV-19/Ecuador/USFQ-113/2020	EPI_ISL_486848	2020-06-30	South America / Ecuador / Imbabura / Ibarra	Human		Male	51	Hospitalized	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-114/2020	EPI_ISL_486849	2020-06-30	South America / Ecuador / Imbabura / Ibarra	Human		Male	60	Hospitalized	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-118/2020	EPI_ISL_486850	2020-06-30	South America / Ecuador / Imbabura / Ibarra	Human		Male	41	Hospitalized	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-119/2020	EPI_ISL_486851	2020-06-30	South America / Ecuador / Imbabura / Urcuqui	Human		Female	75	Hospitalized	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/20640/2020	EPI_ISL_490201	2020-05-02	South America / Ecuador / Guayaquil	Human		Male	62	unknown	Original	Oropharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-120/2020	EPI_ISL_491932	2020-07-03	South America / Ecuador / Carchi / Reciento	Human	Awa indigenous community	Female	42	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-128/2020	EPI_ISL_491933	2020-04-07	South America / Ecuador / Guayas / Guayaquil	Human	Parroquia Tarqui	Female	28	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-129/2020	EPI_ISL_491934	2020-04-07	South America / Ecuador / Guayas / Guayaquil	Human	Parroquia Tarqui	Female	29	unknown	Original	Nasopharyngeal swab		B.1.1.10	GR
+hCoV-19/Ecuador/USFQ-131/2020	EPI_ISL_491935	2020-04-13	South America / Ecuador / Guayas / General Villamil Playas	Human		Female	82	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-139/2020	EPI_ISL_491936	2020-06-30	South America / Ecuador / Manabi / Portoviejo	Human	HGP IESS	Female	30	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-147/2020	EPI_ISL_491937	2020-06-30	South America / Ecuador / Manabi / Calceta	Human	Hospital Especialidades	Male	37	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-150/2020	EPI_ISL_491938	2020-06-30	South America / Ecuador / Manabi / Manta	Human	Hospital Especialidades	Female	45	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-126/2020	EPI_ISL_491939	2020-07-03	South America / Ecuador / Orellana	Human	Comunidad Waorani	Female	unknown	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-127/2020	EPI_ISL_491940	2020-07-03	South America / Ecuador / Orellana	Human	Comunidad Waorani	Female	unknown	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-133/2020	EPI_ISL_491941	2020-05-02	South America / Ecuador / Galapagos / Puerto Baquerizo Moreno	Human	San Cristobal	Male	54	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/23890/2020	EPI_ISL_491944	2020-04-25	South America / Ecuador / Daule	Human		Male	63	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/23055/2020	EPI_ISL_491945	2020-04-22	South America / Ecuador / Manabi / Puerto Lopez	Human		Male	55	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/52872/2020	EPI_ISL_491946	2020-05-28	South America / Ecuador / Los Rios / Ventana	Human		Male	70	unknown	Original			B.1.1.130	GR
+hCoV-19/Ecuador/36192/2020	EPI_ISL_491947	2020-05-08	South America / Ecuador / Manabi / Jipijapa	Human		Male	60	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/30755/2020	EPI_ISL_491948	2020-04-29	South America / Ecuador / Manabi / Pajan	Human		Female	66	unknown	Original			B.1.5	G
+hCoV-19/Ecuador/51908/2020	EPI_ISL_491949	2020-05-26	South America / Ecuador / Manabi / Sucre	Human		Female	76	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/36230/2020	EPI_ISL_491950	2020-05-08	South America / Ecuador / Los Rios / Babahoyo	Human		Female	74	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/52438/2020	EPI_ISL_491951	2020-06-01	South America / Ecuador / Guayas / Guayaquil	Human		Female	12	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/52255/2020	EPI_ISL_491952	2020-05-29	South America / Ecuador / Guayas / San Jacinto de Yaguachi	Human		Female	29	unknown	Original			B.1.1.231	GR
+hCoV-19/Ecuador/36226/2020	EPI_ISL_491953	2020-05-08	South America / Ecuador / Los Rios / Babahoyo	Human		Male	58	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/52389/2020	EPI_ISL_491954	2020-05-28	South America / Ecuador / Santa Elena	Human		Male	41	unknown	Original			B.1.1	GR
+hCoV-19/Ecuador/USFQ-161/2020	EPI_ISL_516648	2020-07-14	South America / Ecuador / Zamora-Chinchipe / Yantzaza	Human		Female	unknown	unknown	Original	Nasopharyngeal swab		B.1.308	GH
+hCoV-19/Ecuador/USFQ-162/2020	EPI_ISL_516649	2020-07-14	South America / Ecuador / Zamora-Chinchipe / Yantzaza	Human		Male	unknown	unknown	Original	Nasopharyngeal swab		B.1.223	G
+hCoV-19/Ecuador/USFQ-165/2020	EPI_ISL_516650	2020-07-22	South America / Ecuador / Pichincha / Quito	Human		Male	unknown	unknown	Original	Nasopharyngeal swab	Reported case of reinfection (1st infection EPI_ISL_525430, 2nd infection EPI_ISL_516650)	A.1	S
+hCoV-19/Ecuador/USFQ-167/2020	EPI_ISL_516651	2020-07-25	South America / Ecuador / Los Rios / Quevedo	Human		Male	unknown	unknown	Original	Nasopharyngeal swab		B.1.223	G
+hCoV-19/Ecuador/USFQ-171/2020	EPI_ISL_516652	2020-07-29	South America / Ecuador / Orellana / Coca	Human		Female	unknown	unknown	Original	Nasopharyngeal swab		B.1.223	G
+hCoV-19/Ecuador/USFQ-163/2020	EPI_ISL_525430	2020-05-20	South America / Ecuador / Pichincha / Quito	Human		Male	unknown	Live	Original	Nasopharyngeal swab	Reported case of reinfection (1st infection EPI_ISL_525430, 2nd infection EPI_ISL_516650)	B.1.9	GH
+hCoV-19/Ecuador/USFQ-177/2020	EPI_ISL_525431	2020-08-12	South America / Ecuador / Zamora-Chinchipe / Zamora	Human		Female	47	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-178/2020	EPI_ISL_525432	2020-08-12	South America / Ecuador / Zamora-Chinchipe / El-Pangui	Human		Male	29	unknown	Original	Nasopharyngeal swab		B.1	GH
+hCoV-19/Ecuador/USFQ-182/2020	EPI_ISL_525433	2020-08-13	South America / Ecuador / Los Rios / Quevedo	Human		Male	37	unknown	Original	Nasopharyngeal swab		B.1	GH
+hCoV-19/Ecuador/USFQ-183/2020	EPI_ISL_525434	2020-08-13	South America / Ecuador / Los Rios / Quevedo	Human		Female	30	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-184/2020	EPI_ISL_525435	2020-08-14	South America / Ecuador / Orellana / Orellana	Human		Female	59	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-186/2020	EPI_ISL_525436	2020-08-12	South America / Ecuador / Imbabura / Otavalo	Human		Female	52	unknown	Original	Nasopharyngeal swab		B.1.223	G
+hCoV-19/Ecuador/USFQ-188/2020	EPI_ISL_525437	2020-08-12	South America / Ecuador / Imbabura / Otavalo	Human		Male	43	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-MC01/2020	EPI_ISL_525438	2020-08-14	South America / Ecuador / Pichincha / Quito	Human		Male	34	unknown	Original	Heart biopsie		B.1.223	G
+hCoV-19/Ecuador/USFQ-193/2020	EPI_ISL_527809	2020-08-04	South America / Ecuador / Bolivar / Guaranda	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-194/2020	EPI_ISL_527810	2020-08-04	South America / Ecuador / Bolivar / Guaranda	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-195/2020	EPI_ISL_527811	2020-08-04	South America / Ecuador / Bolivar / Guaranda	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-196/2020	EPI_ISL_527812	2020-08-20	South America / Ecuador / Esmeraldas / Esmeraldas	Human	Hospital Delfina Torres Concha	unknown	unknown	unknown	Original	Broncheoalveolar lavage		B.1	G
+hCoV-19/Ecuador/USFQ-197/2020	EPI_ISL_527813	2020-08-20	South America / Ecuador / Esmeraldas / Esmeraldas	Human	Hospital Delfina Torres Concha	unknown	unknown	unknown	Original	Broncheoalveolar lavage		B.1.223	G
+hCoV-19/Ecuador/USFQ-199/2020	EPI_ISL_527814	2020-08-20	South America / Ecuador / Esmeraldas / Esmeraldas	Human	Hospital Delfina Torres Concha	unknown	unknown	unknown	Original	Broncheoalveolar lavage		B.1	G
+hCoV-19/Ecuador/USFQ-201/2020	EPI_ISL_527815	2020-08-20	South America / Ecuador / Esmeraldas / Esmeraldas	Human	Hospital Delfina Torres Concha	unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-203/2020	EPI_ISL_527816	2020-08-20	South America / Ecuador / Esmeraldas / Esmeraldas	Human	Hospital Delfina Torres Concha	unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-204/2020	EPI_ISL_527817	2020-08-20	South America / Ecuador / Esmeraldas / Esmeraldas	Human	Hospital Delfina Torres Concha	unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-206/2020	EPI_ISL_527818	2020-08-14	South America / Ecuador / Guayas / Guayaquil	Human		Male	35	Released	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-207/2020	EPI_ISL_527819	2020-04-07	South America / Ecuador / Guayas / Guayaquil	Human		Male	35	Released	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-208/2020	EPI_ISL_539783	2020-06-15	South America / Ecuador / Napo / Tena	Human		Male	29	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-209/2020	EPI_ISL_539784	2020-08-19	South America / Ecuador / Napo / Tena	Human		Male	29	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-212/2020	EPI_ISL_539785	2020-08-04	South America / Ecuador / Azuay / Cuenca	Human		Female	56	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-213/2020	EPI_ISL_539786	2020-08-05	South America / Ecuador / Azuay / Cuenca	Human		Male	61	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-214/2020	EPI_ISL_539787	2020-08-05	South America / Ecuador / Azuay / Cuenca	Human		Female	34	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-216/2020	EPI_ISL_539788	2020-08-05	South America / Ecuador / Azuay / Cuenca	Human		Male	66	unknown	Original	Nasopharyngeal swab		B.1.223	G
+hCoV-19/Ecuador/USFQ-219/2020	EPI_ISL_539789	2020-08-15	South America / Ecuador / Loja / Macara	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-220/2020	EPI_ISL_539790	2020-08-15	South America / Ecuador / Loja / Macara	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.5	G
+hCoV-19/Ecuador/USFQ-222/2020	EPI_ISL_539791	2020-08-15	South America / Ecuador / Loja / Macara	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-224/2020	EPI_ISL_539792	2020-08-15	South America / Ecuador / Loja / Catamayo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-226/2020	EPI_ISL_539793	2020-08-15	South America / Ecuador / Loja / Catamayo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/2343/2020	EPI_ISL_574292	2020-03-16	South America / Ecuador / Guayaquil	Human		Male	25	Live	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/2512/2020	EPI_ISL_574293	2020-03-22	South America / Ecuador / Guayaquil	Human		Male	85	Live	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/2479/2020	EPI_ISL_574294	2020-03-23	South America / Ecuador / Guayaquil	Human		Female	61	Live	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-253/2020	EPI_ISL_574431	2020-09-14	South America / Ecuador / Los Rios / Babahoyo	Human		Female	84	Deceased	Original			B.1.1	GR
+hCoV-19/Ecuador/USFQ-1026/2020	EPI_ISL_594118	2020-08-14	South America / Ecuador / Guayas / Guayaquil	Human		Female	32	Live	Original			B.1.1	GR
+hCoV-19/Ecuador/ZZL-3/2020	EPI_ISL_660069	2020-07-20	South America / Ecuador / Quito	Human		Male	28	Live	Original	Nasopharyngeal swab		B.1.1.161	O
+hCoV-19/Ecuador/ZZL-4/2020	EPI_ISL_660070	2020-11-26	South America / Ecuador / Quito	Human		Male	28	Live	Original			B.1.1.4	O
+hCoV-19/Ecuador/USFQ-228/2020	EPI_ISL_660529	2020-10-01	South America / Ecuador / Tungurahua / Ambato	Human	Hospital General de Ambato	Male	58	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-230/2020	EPI_ISL_660530	2020-10-01	South America / Ecuador / Tungurahua / Ambato	Human	Hospital General de Ambato	Female	25	unknown	Original	Nasopharyngeal swab		B.1.1.10	GR
+hCoV-19/Ecuador/USFQ-231/2020	EPI_ISL_660531	2020-10-01	South America / Ecuador / Tungurahua / Ambato	Human	Hospital General de Ambato	Male	77	unknown	Original	Nasopharyngeal swab		B.1.197	G
+hCoV-19/Ecuador/USFQ-402/2020	EPI_ISL_660532	2020-10-02	South America / Ecuador / Pastaza / Puyo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-485/2020	EPI_ISL_660533	2020-10-05	South America / Ecuador / Cotopaxi / Latacunga	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.197	G
+hCoV-19/Ecuador/USFQ-487/2020	EPI_ISL_660534	2020-10-05	South America / Ecuador / Cotopaxi / Latacunga	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-506/2020	EPI_ISL_660535	2020-10-10	South America / Ecuador / El Oro / Machala	Human		Male	80	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-509/2020	EPI_ISL_660536	2020-10-10	South America / Ecuador / El Oro / Machala	Human		Female	56	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-513/2020	EPI_ISL_660537	2020-10-10	South America / Ecuador / El Oro / Machala	Human		Male	81	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-515/2020	EPI_ISL_660538	2020-10-10	South America / Ecuador / El Oro / Machala	Human		Male	66	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-520/2020	EPI_ISL_660539	2020-10-02	South America / Ecuador / Pastaza / Puyo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.10	GR
+hCoV-19/Ecuador/UEES-9/2020	EPI_ISL_671979	2020	South America / Ecuador	Human		Male	66	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-24/2020	EPI_ISL_671980	2020	South America / Ecuador	Human		Male	35	unknown	Original	Nasopharyngeal swab		B	O
+hCoV-19/Ecuador/UEES-HE134/2020	EPI_ISL_671981	2020	South America / Ecuador	Human		Male	31	unknown	Original	Nasopharyngeal swab		B.1.1.107	GR
+hCoV-19/Ecuador/UEES-4142/2020	EPI_ISL_671982	2020	South America / Ecuador	Human		Female	40	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-1921/2020	EPI_ISL_671983	2020	South America / Ecuador	Human		Female	44	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-3911/2020	EPI_ISL_671984	2020	South America / Ecuador	Human		Male	52	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7352/2020	EPI_ISL_671985	2020	South America / Ecuador	Human		Male	61	unknown	Original	Nasopharyngeal swab		B.1.1.261	GR
+hCoV-19/Ecuador/UEES-15/2020	EPI_ISL_671986	2020	South America / Ecuador	Human		Male	27	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-28/2020	EPI_ISL_671987	2020	South America / Ecuador	Human		Male	82	unknown	Original	Nasopharyngeal swab		B.1.1	O
+hCoV-19/Ecuador/UEES-4040/2020	EPI_ISL_671988	2020	South America / Ecuador	Human		Female	43	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-4369/2020	EPI_ISL_671989	2020	South America / Ecuador	Human		Male	41	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7435/2020	EPI_ISL_671990	2020	South America / Ecuador	Human		Male	56	unknown	Original	Nasopharyngeal swab		B.1.1.216	GR
+hCoV-19/Ecuador/UEES-17/2020	EPI_ISL_671991	2020	South America / Ecuador	Human		Male	39	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-29/2020	EPI_ISL_671992	2020	South America / Ecuador	Human		Female	40	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-2001/2020	EPI_ISL_671993	2020	South America / Ecuador	Human		Male	33	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-4375/2020	EPI_ISL_671994	2020	South America / Ecuador	Human		Female	42	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7462/2020	EPI_ISL_671995	2020	South America / Ecuador	Human		Female	45	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-19/2020	EPI_ISL_671996	2020	South America / Ecuador	Human		Female	29	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-31/2020	EPI_ISL_671997	2020	South America / Ecuador	Human		Female	21	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-2963/2020	EPI_ISL_671998	2020	South America / Ecuador	Human		Male	57	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/UEES-4107/2020	EPI_ISL_671999	2020	South America / Ecuador	Human		Female	39	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7235/2020	EPI_ISL_672000	2020	South America / Ecuador	Human		Male	37	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7463/2020	EPI_ISL_672001	2020	South America / Ecuador	Human		Male	32	unknown	Original	Nasopharyngeal swab		B.1.1.261	GR
+hCoV-19/Ecuador/UEES-32/2020	EPI_ISL_672002	2020	South America / Ecuador	Human		Male	6	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-3050/2020	EPI_ISL_672003	2020	South America / Ecuador	Human		Male	45	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7297/2020	EPI_ISL_672004	2020	South America / Ecuador	Human		Female	55	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7493/2020	EPI_ISL_672005	2020	South America / Ecuador	Human		Female	39	unknown	Original	Nasopharyngeal swab		B.1	GH
+hCoV-19/Ecuador/UEES-3683/2020	EPI_ISL_672006	2020	South America / Ecuador	Human		Male	17	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7317/2020	EPI_ISL_672007	2020	South America / Ecuador	Human		Male	29	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7501/2020	EPI_ISL_672008	2020	South America / Ecuador	Human		Female	15	unknown	Original	Nasopharyngeal swab		B.1.1.216	GR
+hCoV-19/Ecuador/UEES-A001/2020	EPI_ISL_672009	2020	South America / Ecuador	Human		Female	37	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-3685/2020	EPI_ISL_672010	2020	South America / Ecuador	Human		Male	37	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/UEES-7332/2020	EPI_ISL_672011	2020	South America / Ecuador	Human		Female	39	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/ZZ-SARS-1/2020	EPI_ISL_681702	2020-03-23	South America / Ecuador / Quito	Human		Male	36	Live	Original			B.1	O
+hCoV-19/Ecuador/ZZ-SARS-2/2020	EPI_ISL_681703	2020-04-30	South America / Ecuador / Quito	Human		Male	36	Live	Original			B.1.1.231	O
+hCoV-19/Ecuador/USFQ-173/2020	EPI_ISL_697783	2020-07-22	South America / Ecuador / Imbabura / Ibarra	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.10	GR
+hCoV-19/Ecuador/USFQ-185/2020	EPI_ISL_697784	2020-08-12	South America / Ecuador / Imbabura / Otavalo	Human		Male	38	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-1188/2020	EPI_ISL_697785	2020-08-12	South America / Ecuador / Imbabura / Otavalo	Human		Male	43	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-189/2020	EPI_ISL_697786	2020-08-12	South America / Ecuador / Imbabura / Otavalo	Human		Female	32	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-249/2020	EPI_ISL_697787	2020-09-22	South America / Ecuador / Cañar / Azogues	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-322/2020	EPI_ISL_697788	2020-08-19	South America / Ecuador / Imbabura / Otavalo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-344/2020	EPI_ISL_697789	2020-09-02	South America / Ecuador / Imbabura / Otavalo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.6	G
+hCoV-19/Ecuador/USFQ-346/2020	EPI_ISL_697790	2020-09-07	South America / Ecuador / Imbabura / Otavalo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.10	GR
+hCoV-19/Ecuador/USFQ-381/2020	EPI_ISL_697791	2020-09-18	South America / Ecuador / Imbabura / Otavalo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-405/2020	EPI_ISL_697792	2020-09-02	South America / Ecuador / Imbabura / San Pablo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.10	GR
+hCoV-19/Ecuador/USFQ-433/2020	EPI_ISL_697793	2020-09-07	South America / Ecuador / Imbabura / Otavalo	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-523/2020	EPI_ISL_697794	2020-09-29	South America / Ecuador / Morona Santiago / Morona	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.1	GR
+hCoV-19/Ecuador/USFQ-524/2020	EPI_ISL_697795	2020-09-29	South America / Ecuador / Morona Santiago / Morona	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-527/2020	EPI_ISL_697796	2020-05-26	South America / Ecuador / Napo / Tena	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1.1	GR
+hCoV-19/Ecuador/USFQ-528/2020	EPI_ISL_697797	2020-07-17	South America / Ecuador / Guayas / Guayaquil	Human		Male	35	unknown	Original	Semen		B.1.1	GR
+hCoV-19/Ecuador/USFQ-531/2020	EPI_ISL_697798	2020-11-30	South America / Ecuador / Sucumbios	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-533/2020	EPI_ISL_697799	2020-11-30	South America / Ecuador / Sucumbios	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-539/2020	EPI_ISL_697800	2020-11-30	South America / Ecuador / Santa Elena	Human		unknown	unknown	unknown	Original	Nasopharyngeal swab		B.1	G
+hCoV-19/Ecuador/USFQ-553/2020	EPI_ISL_728202	2020-11-28	South America / Ecuador / Santo Domingo / Santo Domingo	Human		Female	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.159	GR
+hCoV-19/Ecuador/USFQ-555/2020	EPI_ISL_728203	2020-12-04	South America / Ecuador / Santo Domingo / Santo Domingo	Human		Male	unknown	unknown	Original	Nasopharyngeal swab		B.1.1.159	GR
+hCoV-19/Ecuador/USFQ-556/2020	EPI_ISL_728204	2020-12-01	South America / Ecuador / Santo Domingo / Santo Domingo	Human		Male	unknown	unknown	Original	Nasopharyngeal swab		B	S
+hCoV-19/Ecuador/USFQ-558/2020	EPI_ISL_728205	2020-12-09	South America / Ecuador / Sucumbios	Human		Male	72	unknown	Original	Nasopharyngeal swab		B.1.1.159	GR
